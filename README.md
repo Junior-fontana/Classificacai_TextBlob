@@ -1,4 +1,4 @@
-# Classificacai_TextBlob utilizando Python.
+# Classificacao_TextBlob utilizando Python.
 #Projeto bastante intuitivo, primeiramente, deve-se instalar a biblioteca TextBlob.
 #pip install textblob.
 
